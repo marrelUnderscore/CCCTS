@@ -15,9 +15,9 @@ console.log("Now:", new Date(now))
 // https://events.ccc.de/congress/2025/infos/tickets.html
 // To test that reloading really works, you can inject a date here.
 const sales = [
-	new Date("2025-11-08T11:00+01:00"),
-	new Date("2025-11-17T15:10+01:00"),
-	new Date("2025-11-17T20:00+01:00"),
+	new Date("2026-11-08T11:00+01:00"),
+	new Date("2026-11-11T18:00+01:00"),
+	new Date("2026-11-19T20:00+01:00"),
 ]
 
 // Automatically select testing if a sale is further out than three minutes.
